@@ -1,16 +1,35 @@
-## Hi there 👋
+# 🌍 PAGGY – AI Engineer in the making
 
-<!--
-**paggy-ai-engineer-allwork/paggy-ai-engineer-allwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*"La vie de demain se cherche aujourd'hui"*
 
-Here are some ideas to get you started:
+## 👋 Qui suis-je ?
+Étudiant en **Génie Logiciel (Bac 2)** au Burundi.  
+Je deviens **AI Engineer** pour être utile ici et ailleurs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Mes objectifs
+- Construire des projets IA complets (données → API → déploiement)
+- Décrocher un **master en IA à l'étranger**
+- Gagner ma vie avec mes compétences **pendant mes études**
+
+## 📚 Ce que j'apprends en ce moment
+- Python (avancé), Pandas, Scikit-learn
+- FastAPI, Docker
+- PyTorch (CNN, Transformers)
+
+## 🗓️ Mon plan d'action
+Suivi du plan **"3 mois pour devenir AI Engineer"** (mentoré par un ingénieur expérimenté)
+
+## 📁 Mes projets
+| Projet | Lien | Description |
+|--------|------|-------------|
+| 🚧 Projet 1 | *à venir* | Analyse de données (Pandas/Matplotlib) |
+| 🚧 Projet 2 | *à venir* | API de prédiction (FastAPI + Docker) |
+| 🚧 Projet 3 | *à venir* | Classifieur d'images (PyTorch + HuggingFace) |
+
+## 📫 Me contacter
+- GitHub : paggy-ai-engineer-allwork
+- LinkedIn : *(à mettre plus tard)*
+
+---
+
+⭐ *Ce dépôt sera mis à jour chaque semaine avec mes progrès.*
